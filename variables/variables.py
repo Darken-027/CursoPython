@@ -18,14 +18,17 @@ nmbre = "Darkenis"
 bienvenida = "Hola Bienvenida " + nmbre + " Como estas?"
 print(bienvenida)
 
-#Segunda forma de concaquetenar f string
+#Segunda forma de concatenar f string
 
 nombre = "Ahstell"
 bienvenida = f"Hola {nombre} como estas"
-print_("Ahstell" in bienvenida)
+#print_("Ahstell" in bienvenida)
 
 #Operadores de pertenecnia (in / not in)
 
 print("Lucas" in bienvenida) #true
 
 print("Lucas" not in bienvenida) #false
+
+#Usar snacke_case
+nombre_completo = "Boolir"
