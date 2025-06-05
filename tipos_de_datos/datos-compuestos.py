@@ -17,3 +17,13 @@ print(tupla[0])
 
 conjunto = {"Ahstell Data", "Soy Ahstell", True, 1.60}
 print(conjunto)
+
+#Diccionario
+diccionario = {
+    'nombre' : "David Ahstell",
+    'canal' : "Ahstel027",
+    'estas_emocionado' : True,
+    'altura' : 1.75
+}
+
+print(diccionario['canal'])
