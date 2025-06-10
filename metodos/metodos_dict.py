@@ -11,4 +11,7 @@ clave = diccionario.keys()
 clave = diccionario.get("lucas")
 print("Hola papa")
 
-print(clave)
+#Eliminando todo del diccionario
+#diccionario.clear()
+
+diccionario.pop("nombre")
