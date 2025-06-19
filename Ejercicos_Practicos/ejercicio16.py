@@ -1,6 +1,6 @@
 '''
 Ejercicio 16
-calcula 2 elevado a la 4cuarta portencia
+calcula 2 elevado a la 4cuarta potencia
 sin utilizar el operador **.
 
 '''
