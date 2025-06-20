@@ -1,6 +1,6 @@
 '''
 Ejercicio 21
-muñtiplica una cadena
+multiplica una cadena
 por un numero entero
 
 '''
