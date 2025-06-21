@@ -1,5 +1,5 @@
 '''
-Ejercicio 32
+Ejercicio 33
 determina si un año es bisiesto
 regla de negocio
     -divisible por 4
