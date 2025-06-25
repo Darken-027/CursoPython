@@ -17,3 +17,5 @@ while numero <= 100:
     else:
         print(numero)
     numero = numero + 1
+    
+    #Finalizacion
